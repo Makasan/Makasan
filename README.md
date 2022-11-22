@@ -8,7 +8,6 @@
     border-style:solid;
     outline:1px solid;
     text-shadow: 2px 2px 0px White;"> Welcome To My GitHub !</h1>
-    <div class="tenor-gif-embed" data-postid="14187899" data-share-method="host" data-aspect-ratio="0.55" data-width="100%"><a href="https://tenor.com/view/anime-gif-14187899">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     <p align="center" style="padding-top:2.5%;">
         <div>
             <div>
