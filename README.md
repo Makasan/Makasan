@@ -36,7 +36,6 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
             <img src="https://github.com/Suratan63011017/Suratan63011017/blob/main/other/robot-logo.png" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
             <img src="https://github.com/Suratan63011017/Suratan63011017/blob/main/other/selenium-logo.png" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
         </div>
